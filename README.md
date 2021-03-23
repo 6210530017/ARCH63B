@@ -9,4 +9,4 @@ CLIP3 https://youtu.be/rZnXsbZUBRo
 CLIP4 https://youtu.be/2-yPjtQfsWA  
 CLIP5 https://youtu.be/OVApsuD7Uzc  
 CLIP6 https://youtu.be/WYw4_xF4RsY  
-CLIP7 Coming soon...
+CLIP7 https://youtu.be/Yi53MK8Clz4
