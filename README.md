@@ -4,7 +4,7 @@ COMPUTER ARCHITECTURE
 นายปราโมทย์ ศิริภาพ  เลขทะเบียน 6210530017
 ----------------------------
 
-*** Link คลิปในวิชา CN210***
+*** Link คลิปในวิชา CN210***  
 CLIP2 https://youtu.be/mcYYaqae_ms  
 CLIP3 https://youtu.be/rZnXsbZUBRo  
 CLIP4 https://youtu.be/2-yPjtQfsWA  
