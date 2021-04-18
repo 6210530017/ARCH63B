@@ -15,7 +15,7 @@ CLIP8 https://youtu.be/ddcahqT7xZA
 CLIP9 https://youtu.be/13sAjdjoYfo
 
 ----------------------------------
-**Learning _Markdown_ in GitHub**  :smile::pray:  
+**Learning _Markdown_ in GitHub**  :smile:  
 [CLIP2](https://youtu.be/mcYYaqae_ms)  
 [CLIP3](https://youtu.be/rZnXsbZUBRo)  
 [CLIP4](https://youtu.be/2-yPjtQfsWA)  
@@ -26,4 +26,4 @@ CLIP9 https://youtu.be/13sAjdjoYfo
 [CLIP9](https://youtu.be/13sAjdjoYfo)  
 
 ------------------------------------
-https://youtu.be/13sAjdjoYfo - automatic!
+Thank you.:pray:  
