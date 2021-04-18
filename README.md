@@ -1,11 +1,8 @@
 # ARCH63B
 COMPUTER ARCHITECTURE  
 
-----------------------------
 นายปราโมทย์ ศิริภาพ  เลขทะเบียน 6210530017
 ----------------------------
-
-----------------------------------
 
 CLIP2 https://youtu.be/mcYYaqae_ms  
 CLIP3 https://youtu.be/rZnXsbZUBRo  
